@@ -1,4 +1,4 @@
-// MY First Program
+// My First Program
 
 class HelloWorld 
 {
