@@ -17,7 +17,9 @@ public class BubbleSort
          }  
   
     }  
-    public static void main(String[] args) {  
+    
+    public static void main(String[] args) 
+    {  
                 int arr[] ={3,60,35,2,45,320,5};  
                  
                 System.out.println("Array Before Bubble Sort");  
