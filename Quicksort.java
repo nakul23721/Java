@@ -1,5 +1,7 @@
-public class QuickSort {  
-public static void main(String[] args) {  
+public class QuickSort 
+{  
+public static void main(String[] args) 
+{  
         int i;  
         int[] arr={90,23,101,45,65,23,67,89,34,23};  
         quickSort(arr, 0, 9);  
