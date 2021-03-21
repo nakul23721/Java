@@ -1,8 +1,6 @@
 import java.util.Scanner;
-public class Edureka
-{
-public static void main(String args[])
-{
+public class Edureka {
+public static void main(String args[]) {
 int n, i, j, space = 1;
 System.out.print("Enter the number of rows: ");
 Scanner s = new Scanner(System.in);
