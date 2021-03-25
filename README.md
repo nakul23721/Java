@@ -1,3 +1,3 @@
-# Learning Java
+# Java
 
 All about Java language 
