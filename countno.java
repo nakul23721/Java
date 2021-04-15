@@ -1,4 +1,5 @@
-public class WordCount {  
+public class WordCount 
+{  
       static int wordcount(String string)  
         {  
           int count=0;  
@@ -12,7 +13,8 @@ public class WordCount {
             }  
             return count;  
         }  
-      public static void main(String[] args) {  
+      public static void main(String[] args) 
+      {  
           String string ="    India Is My Country";  
          System.out.println(wordcount(string) + " words.");   
     }  
