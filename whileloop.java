@@ -1,5 +1,3 @@
-// Java program to illustrate while loop. 
-  
 class whileLoop
 { 
     public static void main(String args[]) 
