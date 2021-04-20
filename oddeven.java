@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
-public class EvenOdd {
+public class EvenOdd 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         Scanner reader = new Scanner(System.in);
 
