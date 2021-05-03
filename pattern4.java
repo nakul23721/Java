@@ -5,7 +5,7 @@ public class Edureka
         {
             Scanner sc = new Scanner(System.in);
  
-            System.out.println("Enter the number of rows: ");
+            System.out.println("Enter the no of rows: ");
  
             int rows = sc.nextInt();
              
