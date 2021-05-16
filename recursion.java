@@ -3,7 +3,7 @@ public class Main
   public static void main(String[] args) 
   {
     int result = sum(10);
-    System.out.println(result);
+    System.out.println(results);
   }
   public static int sum(int k)
   {
