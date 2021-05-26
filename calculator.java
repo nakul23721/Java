@@ -35,7 +35,7 @@ public class Main
         break;
 
       default:
-        System.out.printf("Error! operator is not correct");
+        System.out.printf("Error!!! operator is not correct");
         return;
     }
 
