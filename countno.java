@@ -15,7 +15,7 @@ public class WordCount
         }  
       public static void main(String[] args) 
       {  
-          String string ="    India Is My Country";  
-         System.out.println(wordcount(string) + " words.");   
+          String string ="    India(Bharat) Is My Country";  
+         System.out.println(wordcount(string) + " wordss.");   
     }  
 }  
